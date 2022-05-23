@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moviereview-predict/static/css/main.9322374b.css",
-    "main.js": "/moviereview-predict/static/js/main.5a504879.js",
+    "main.js": "/moviereview-predict/static/js/main.0ae0b8c2.js",
     "static/js/787.cda612ba.chunk.js": "/moviereview-predict/static/js/787.cda612ba.chunk.js",
     "index.html": "/moviereview-predict/index.html",
     "main.9322374b.css.map": "/moviereview-predict/static/css/main.9322374b.css.map",
-    "main.5a504879.js.map": "/moviereview-predict/static/js/main.5a504879.js.map",
+    "main.0ae0b8c2.js.map": "/moviereview-predict/static/js/main.0ae0b8c2.js.map",
     "787.cda612ba.chunk.js.map": "/moviereview-predict/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9322374b.css",
-    "static/js/main.5a504879.js"
+    "static/js/main.0ae0b8c2.js"
   ]
 }
